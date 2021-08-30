@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Astel98/exotic-cheese/issues"
   },
-  "homepage": "https://github.com/Astel98/exotic-cheese#readme"
+  "homepage": "https://github.com/Astel98/exotic-cheese#readme",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
 }
